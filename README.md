@@ -1,3 +1,3 @@
 # Pixel Art Maker Project
 
-# For creating masterpieces
+For designing sprites and other digital designs
